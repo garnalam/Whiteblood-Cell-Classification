@@ -15,10 +15,7 @@ Tải dataset và test tại [https://github.com/monaen/Meng2018Largescale/tree/
 
 
 ### Cách tải
-1. clone the code branch of the project (Notice: we do not suggest to clone the entire project)
-```commandline
-git clone https://github.com/monaen/Meng2018Largescale.git --branch code --single-branch
-```
+1. Tải dataset Augmented sau đó tạo 1 thư mục là data ở trong project rồi ném nó data vào
 
 2. head to the `data` folder and download the data
 ```commandline
